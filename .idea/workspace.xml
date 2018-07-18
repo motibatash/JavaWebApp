@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e89407b-377b-4359-ae9c-2615b3d3257e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2e89407b-377b-4359-ae9c-2615b3d3257e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +15,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="210">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -152,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531726927664</updated>
-      <workItem from="1531726932589" duration="2285000" />
+      <workItem from="1531726932589" duration="6092000" />
     </task>
     <task id="LOCAL-00001" summary="change index.html h1 tag">
       <created>1531753725412</created>
@@ -161,11 +159,53 @@
       <option name="project" value="LOCAL" />
       <updated>1531753725412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change index.html h2 tag">
+      <created>1531810371746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531810371746</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change index.html h2 tag tits">
+      <created>1531817928235</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531817928235</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change index.html h2 tag tits">
+      <created>1531835335967</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531835335967</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change index.html h2 tag tits">
+      <created>1531838067635</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531838067635</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change index.html h2 tag tits">
+      <created>1531838851331</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531838851331</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change index.html h2 tag tits">
+      <created>1531908207935</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1531908207935</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2285000" />
+    <option name="totallyTimeSpent" value="6092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1293" height="743" extended-state="6" />
@@ -186,7 +226,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34725446" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536736" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -211,7 +251,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change index.html h1 tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="change index.html h1 tag" />
+    <MESSAGE value="change index.html h2 tag" />
+    <MESSAGE value="change index.html h2 tag tits" />
+    <option name="LAST_COMMIT_MESSAGE" value="change index.html h2 tag tits" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/in/javahome/myweb/controller/Calculator.java">
@@ -223,8 +265,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="210">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>
